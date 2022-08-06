@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel!
 
-- 🌱 Learning Java at Generation Bootcamp...
+- 🌱 Learning Java in Generation Bootcamp...
 - 😄 Pronouns: ele/he
 
 <div align="center">
