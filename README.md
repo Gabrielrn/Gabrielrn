@@ -16,7 +16,7 @@
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://user-images.githubusercontent.com/79949781/183263012-f25771dc-17a5-4ea0-9fb3-9c21cb3620cb.png">
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/79949781/183263082-03faa487-921f-4faf-9a36-3b9bdf186525.png">
   <img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Gabriel-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg">
+  <img align="center" alt="Gabriel-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg">
 </div>
 
 <div> 
