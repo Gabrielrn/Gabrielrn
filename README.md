@@ -15,7 +15,7 @@
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-Java" height="30" width="40" src="https://user-images.githubusercontent.com/79949781/183263012-f25771dc-17a5-4ea0-9fb3-9c21cb3620cb.png">
   <img align="center" alt="Gabriel-MySQL" height="30" width="40" src="https://user-images.githubusercontent.com/79949781/183263082-03faa487-921f-4faf-9a36-3b9bdf186525.png">
-  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <img align="center" alt="Gabriel-React" height="30" width="40" src="https://user-images.githubusercontent.com/79949781/186496692-cbd10207-985c-490a-a4ae-75499e070700.png">
 </div>
 
 <div> 
